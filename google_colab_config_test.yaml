@@ -1,0 +1,9 @@
+
+path: '/content/gdrive/My Drive/YOLO_v8/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/test  # test images (relative to 'path')
+
+# Classes
+names:
+  0: Clear
+  1: Snowy
